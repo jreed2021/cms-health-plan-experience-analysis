@@ -41,8 +41,8 @@ Python was used for:
 - skewness, Pearson correlation, and Spearman correlation
 
 See:
-- [`notebooks/01_data_intake_cleaning.ipynb`](notebooks/01_data_intake_cleaning.ipynb)
-- [`notebooks/02_exploratory_analysis.ipynb`](notebooks/02_exploratory_analysis.ipynb)
+- [Data Intake & Cleaning Notebook](notebooks/01_data_intake_cleaning.ipynb)
+- [Exploratory Analysis Notebook](notebooks/02_exploratory_analysis.ipynb)
 
 ### MySQL
 
@@ -59,8 +59,8 @@ The analysis-ready CSV was imported into `cms_health_plan_analysis.qrs_enrollee_
 The first MySQL import loaded only **298 rows** because CMS-coded text values were incorrectly assigned numeric field types. After the import schema was corrected, both `COUNT(*)` and `COUNT(DISTINCT REPORTING_UNIT_ID)` returned **308**.
 
 See:
-- [`sql/health_plan_analysis.sql`](sql/health_plan_analysis.sql)
-- [`sql/import_schema_notes.md`](sql/import_schema_notes.md)
+- [SQL Analysis Script](sql/health_plan_analysis.sql)
+- [MySQL Import Schema Notes](sql/import_schema_notes.md)
 
 ### Tableau
 
@@ -107,7 +107,7 @@ The analysis does **not** show that stronger Medical Care causes worse member ex
 
 ## Data Sources
 
-Public CMS Marketplace Quality Initiatives data were used throughout the project. See [`sources/data_sources.md`](sources/data_sources.md).
+Public CMS Marketplace Quality Initiatives data were used throughout the project. See [CMS Marketplace Quality Initiatives Downloads](https://www.cms.gov/marketplace/about/health-insurance-quality-initiatives/downloads)
 
 ## Tableau Public
 

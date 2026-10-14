@@ -1,7 +1,5 @@
 # CMS Medical Care Ratings vs Enrollee Experience
 
-![Dashboard](visuals/cms_health_plan_dashboard.png)
-
 ## Project Question
 
 **Are stronger CMS Medical Care ratings associated with better enrollee-reported health plan experiences?**
@@ -113,11 +111,11 @@ Public CMS Marketplace Quality Initiatives data were used throughout the project
 
 ## Tableau Public
 
-**Dashboard link:** _Add Tableau Public URL here_
+[View the Tableau dashboard](https://public.tableau.com/app/profile/janessa.reed/viz/CMSMedicalCareRatingsandEnrolleeExperience/Dashboard1)
 
 ## Medium Article
 
-**Article link:** _Add Medium article URL here_
+**Article link:** [Read the Medium article](https://medium.com/@reed.janessa21/does-a-higher-rated-health-plan-actually-mean-a-better-patient-experience-5209d96bfe1c?sharedUserId=reed.janessa21)
 
 ## Tools
 

@@ -44,6 +44,12 @@ See:
 - [Data Intake & Cleaning Notebook](notebooks/01_data_intake_cleaning.ipyn.ipynb)
 - [Exploratory Analysis Notebook](notebooks/02_exploratory_analysis.ipynb)
 
+## Data
+
+The analysis-ready dataset contains 308 CMS Marketplace reporting units after cleaning, matching, and validation.
+
+- [Clean Analysis Dataset](data_clean/cms_qrs_enrollee_experience_clean.csv)
+
 ### MySQL
 
 The analysis-ready CSV was imported into `cms_health_plan_analysis.qrs_enrollee_experience`. MySQL was used to:

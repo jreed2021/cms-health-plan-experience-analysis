@@ -42,7 +42,7 @@ Python was used for:
 
 See:
 - [Data Intake & Cleaning Notebook](notebooks/01_data_intake_cleaning.ipyn.ipynb)
-- [Exploratory Analysis Notebook](notebooks/02_exploratory_analysis.ipynb.ipynb)
+- [Exploratory Analysis Notebook](notebooks/02_exploratory_analysis.ipynb)
 
 ### MySQL
 

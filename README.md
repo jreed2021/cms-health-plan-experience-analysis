@@ -60,7 +60,6 @@ The first MySQL import loaded only **298 rows** because CMS-coded text values we
 
 See:
 - [SQL Analysis Script](sql/health_plan_analysis.sql)
-- [MySQL Import Schema Notes](sql/import_schema_notes.md)
 
 ### Tableau
 
